@@ -1,0 +1,6 @@
+{
+  "name": "LaunchPilot AI — Growth Doctor",
+  "description": "Growth diagnosis tool for early-stage startup founders. Analyzes conversion funnels, identifies bottlenecks, explains evidence, and prescribes measurable experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
